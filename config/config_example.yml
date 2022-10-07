@@ -1,0 +1,9 @@
+app:
+  name: 'app-name'
+  version: '0.0.1'
+
+logger:
+  log_level: 'debug'
+
+postgres:
+  url: 'postgres://user_name:password@host:5432/db_name'
